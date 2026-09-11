@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-N/A
+1. https://developer.android.com/develop/ui/compose/lists
 
 ## Verbal Collaboration
 
